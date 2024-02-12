@@ -1,5 +1,6 @@
 {
     "name": "摩尔斯电码",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
